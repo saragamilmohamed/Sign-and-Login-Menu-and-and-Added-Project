@@ -1,0 +1,18 @@
+[
+    {
+        "Fname": "alaa",
+        "Lname": "emad",
+        "email": "alaa@gamil.com",
+        "password": "6789",
+        "comfirmed": "6789",
+        "phone": "01061316477"
+    },
+    {
+        "Fname": "sara",
+        "Lname": "gamil",
+        "email": "sara@gmail.com",
+        "password": "12345",
+        "comfirmed": "12345",
+        "phone": "01064342076"
+    }
+]
